@@ -7,7 +7,7 @@ in chrome:
 	go to chrome->extensions
 	check "Developer mode" checkbox
 	click "load unpacked extension"
-	selected extracted folders
+	selected extracted folder
 
 done
 
